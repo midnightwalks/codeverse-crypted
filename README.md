@@ -26,3 +26,4 @@ C. Output Utama:
    - Keamanan data lewat enkripsi & steganografi.  
 
 that's all!~  
+modified from web programming's project, for cryptography project.
