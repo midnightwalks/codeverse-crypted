@@ -24,3 +24,5 @@ C. Output Utama:
    - Fitur Q&A untuk interaksi pengguna.  
    - Admin panel untuk kelola konten dan data.  
    - Keamanan data lewat enkripsi & steganografi.  
+
+that's all!~  
