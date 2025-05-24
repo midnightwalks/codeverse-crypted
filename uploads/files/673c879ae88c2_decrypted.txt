@@ -1,0 +1,11 @@
+analisis deskriptif: menganalisis variabel2 yang ada terus pake statistik seperti mean median dll serta visualisasi data spt boxplot/histogram
+chi square test: untuk melihat apakah ada hubungan signifikan di antara 2 variabel kategorikal
+regresi logistik: prediksi hubungan variabel biner dependen dengan variabel2 independen
+analisis cluster: mengelompokkan individu berdasarkan karakteristik yang mirip
+decision tree: memetakan hubungan antar beberapa variabel dependen dan independen
+anova: membandingkan rata rata lebih dari dua kelompok
+t test: membandingkan rata rata antara dua kelompok
+principal component analysis: mereduksi data menjadi beberapa komponen utama
+regresi poisson: memodelkan variabel dependen yang berupa hitungan jumlah/frekuensi
+analisis survival: analisis untuk melihat kemungkinan yang akan terjadi berdasarkan pola yang ada
+regresi probit: mirip sama regresi logistik tapi kesalahan mengikuti distribusi distribusi normal kumulatif
